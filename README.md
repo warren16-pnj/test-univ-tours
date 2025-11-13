@@ -14,7 +14,7 @@ Projet test pour montrer l'utilisation
 
 &nbsp;	- utiliser node-RED
 
-!\[image](images.jpg)
+![image](images.jpg)
 
 
 
