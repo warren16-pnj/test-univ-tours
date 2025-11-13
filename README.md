@@ -16,5 +16,11 @@ Projet test pour montrer l'utilisation
 
 ![image](images.jpg)
 
+```mermaid
+flowchart TD
+    mosquitto[Serveur<br>mosquitto] --> |messages| RPi[raspberry Pi<br>Node-RED<br> Documentation]
+    RPi --> BDD
+    RPi --> GitHub
+```
 
 
